@@ -1,0 +1,12 @@
+configuration {
+	font: "OCR A 10";
+	display-drun: "Application: ";
+	drun-display-format: "{icon} {name}";
+	modi: "run,drun";
+	show-icons: true;
+	icon-theme: "Papirus";
+
+}
+
+/* https://github.com/undiabler/nord-rofi-theme?tab=readme-ov-file */
+@theme "~/.config/rofi/nord.rasi"
